@@ -5,6 +5,8 @@
 <br />
 main code: [Assets/Scripts](Assets/Scripts)
 <br />
+demo download: [Demo](https://github.com/HWliiu/EasyDriving/releases/tag/0.1)
+<br />
 
 #### 界面
 <center>
