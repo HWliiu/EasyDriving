@@ -3,6 +3,8 @@
 ### Easy Driving
 一款基于Unity3D开发的科目二模拟驾考软件
 <br />
+main code: [Assets/Scripts](Assets/Scripts)
+<br />
 
 #### 界面
 <center>
