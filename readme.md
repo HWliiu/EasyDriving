@@ -131,4 +131,15 @@ demo download: [Demo](https://github.com/HWliiu/EasyDriving/releases/tag/0.1)
     color: #999;
     padding: 2px;">图11 界面管理模块</div>
 </center>
+<br />
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="images/11.png"  width="70%">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">图12 汽车动力学仿真模块时序图</div>
+</center>
 <div>
